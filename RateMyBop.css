@@ -1,0 +1,12 @@
+head {
+	font-family: helvetica;
+	color: white; 
+}
+
+body {
+	background-color: #212F3D;
+	font-family: helvetica;
+	color: white;
+	padding: 10px;
+	text-align: center;
+}
